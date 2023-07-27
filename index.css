@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background: #020202;
+    cursor: crosshair;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Bungee Spice", cursive;
+    justify-content: center;
+    font-size: 40px;
+}
+canvas {
+  display: block;
+}
+h1 {
+  display: flex;
+}
+h2 {
+  display: flex;
+}
+.text{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
